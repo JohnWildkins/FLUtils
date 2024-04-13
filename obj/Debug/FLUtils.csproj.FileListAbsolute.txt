@@ -1,0 +1,6 @@
+E:\FLMSRebuild\FLModStudio\FLUtils\obj\Debug\FLUtils.csproj.AssemblyReference.cache
+E:\FLMSRebuild\FLModStudio\FLUtils\obj\Debug\FLUtils.csproj.CoreCompileInputs.cache
+E:\FLMSRebuild\FLModStudio\FLUtils\bin\Debug\FLUtils.dll
+E:\FLMSRebuild\FLModStudio\FLUtils\bin\Debug\FLUtils.pdb
+E:\FLMSRebuild\FLModStudio\FLUtils\obj\Debug\FLUtils.dll
+E:\FLMSRebuild\FLModStudio\FLUtils\obj\Debug\FLUtils.pdb
